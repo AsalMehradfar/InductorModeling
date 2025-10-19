@@ -1,0 +1,10 @@
+.DS_Store
+**/__pycache__/
+.ipynb_checkpoints
+results/
+raw/
+processed_data.csv
+test.csv
+val.csv
+train.csv
+q_predictor_loss_best.pdf
